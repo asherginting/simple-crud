@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 600px;
+  align-items: center;
+}
+
+.content-box {
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+h2.mb-4 {
+  text-align: center;
+}
+
+.btn-action {
+  margin-right: 5px;
+}
